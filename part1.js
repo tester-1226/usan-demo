@@ -11,7 +11,7 @@ const MAX_RETRIES = 5;
 const RETRY_TIME = 2000;
 
 // data dir
-const DATA_DIR = path.join(__dirname, "data_test");
+const DATA_DIR = path.join(__dirname, "data");
 
 // date format YYYYMMDD according to (https://open.fda.gov/apis/food/event/example-api-queries/)
 const DATE_START = "20000101";
